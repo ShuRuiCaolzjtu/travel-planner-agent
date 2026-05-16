@@ -88,7 +88,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/ShuRuiCaolzjtu/travel-planner-agent.git
+git clone https://github.com/ShuRuiCaoBJJTU/travel-planner-agent.git
 cd travel-planner-agent
 ```
 
