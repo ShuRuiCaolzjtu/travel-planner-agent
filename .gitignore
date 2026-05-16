@@ -1,0 +1,45 @@
+# 永远不需要传的内容
+__pycache__/
+*.py[cod]
+*.pyo
+*$py.class
+
+# 虚拟环境
+venv/
+.venv/
+env/
+.env/
+
+# Node
+node_modules/
+dist/
+build/
+*.tsbuildinfo
+
+# 数据文件（用户生成，不纳入版本控制）
+data/*.db
+data/images/
+images/
+
+# 编辑器/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.log
+
+# 环境配置（保持API Key安全）
+.env
+.env.local
+.env.production
+.env.development
+
+# 运行时文件
+*.pid
+*.seed
+*.pid.lock
